@@ -11,6 +11,5 @@ public class Swap {
 
         System.out.println("First: "+first+" Second: "+second);
 
-
     }
 }
